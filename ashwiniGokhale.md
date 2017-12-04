@@ -9,7 +9,6 @@ This section lists the new features introduced in this release of MyProduct.
     - part a
 	  Properly indented paragraph
 	- part b
-- feature 3
 
 ## Changes in Functionality
 
